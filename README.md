@@ -1,6 +1,5 @@
-# first_app_code_lab
+# First Flutter App Code lab, [part 1](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/index.html?index=..%2F..index#6) and [part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/index.html?index=..%2F..index#8)
 
-A new Flutter application.
 
 ## Getting Started
 
